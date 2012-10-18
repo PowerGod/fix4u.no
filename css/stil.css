@@ -1,12 +1,13 @@
 body {
-
+	background-color: #FFFFCC;
 }
+
 address {
-	color: #880000 ;
+	color: #880000;
 	}
 h1 {
-	color:  33CC99;
+	color: #6600CC;
 }
 h4 {
-	color: #880000
+	color: #880000; 
 }
