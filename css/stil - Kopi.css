@@ -1,0 +1,54 @@
+body {
+	background-color: #FFFFCC;
+}
+
+address {
+	color: #880000;
+	}
+h1 {
+	color: #6600CC;
+}
+h4 {
+	color: #880000; 
+}
+
+body {
+    font-family: georgia;
+}
+#dropdown {
+    font-size: 11pt;
+    margin: auto;
+    width: 500px;
+}
+#menu {
+    margin-top: 10px;
+    position: absolute;
+}
+#menu ul .item {
+    display: none;
+}
+#menu ul:hover .item {
+    background: none repeat scroll 0 0 #000000;
+    display: block;
+    margin: 1px;
+    padding: 1px;
+}
+#menu ul:hover .item a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#menu ul:hover .item a:hover {
+    color: #999999;
+}
+#menu ul {
+    background: none repeat scroll 0 0 #B10000;
+    float: left;
+    list-style: none outside none;
+    margin: 0;
+    padding: 2px;
+    width: 100px;
+}
+.clear {
+    clear: both;
+    height: 10px;
+}
